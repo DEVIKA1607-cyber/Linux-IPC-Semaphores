@@ -1,7 +1,5 @@
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
-# NAME: HARINE S
-# REG. NO: 212224230081
 # AIM:
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
 
